@@ -9,7 +9,7 @@
 </ul>
 
 
-<img src="/Assets/Mar.jpeg"  width="150"/> <img src="/Assets/Johan.jpeg"  width="150"/> <img src="/Assets/Rodrigo.jpeg"  width="150"/> <img src="/Assets/Alex.jpeg"  width="150"/>
+<img src="/Assets/Mar.jpg"  width="150"/> <img src="/Assets/Johan.jpg"  width="150"/> <img src="/Assets/Rodrigo.jpg"  width="150"/> <img src="/Assets/Alex.jpg"  width="150"/>
 ## Descripción del Proyecto
 
 
