@@ -13,7 +13,7 @@ Muchos problemas de salud en los perros pasan desapercibidos hasta que es demasi
 3. **Portal Veterinaria** - La falta de diagnóstico temprano es una de las principales causas de muerte prematura en perros, lo que refuerza la necesidad de tecnologías que ayuden en la monitorización continua.  
    [Fuente](https://www.portalveterinaria.com/actualidad-veterinaria/actualidad/25346/cuales-son-las-causas-de-muerte-mas-habituales-en-los-perros.html)
 
-4. **Dspace Uazuay** - Investigación sobre la implementación de tecnologías de monitoreo para la salud de las mascotas, aunque no es un producto comercial, destaca la relevancia de estos sistemas.  
+4. **Dspace Uazuay** - Duelo ante la muerte de una mascota doméstica en estudiantes universitarios.
    [Dspace Uazuay](https://dspace.uazuay.edu.ec/bitstream/datos/15248/1/20764.pdf)
 
 ## Collares Existentes que Intentan Resolver la Problemática
