@@ -16,5 +16,8 @@ Para más detalles sobre el proyecto, por favor consulta los siguientes archivos
 3. **[PerfilesYPersonas.pdf](/Primera%20Entrega/PerfilesYPersonas.pdf) - Presentación de los Perfiles y Personas del Proyecto**  
    Documento que presenta los perfiles de los usuarios finales (dueños de mascotas) y las personas involucradas en el proyecto. Incluye descripciones detalladas de los casos de uso, necesidades y expectativas de los distintos grupos de interés, lo que permite una mejor comprensión de los usuarios y facilita la toma de decisiones sobre el diseño del producto.
 
-4. **[DogHealthAvance](/Primera%20Entrega/DogHealthAvance) - Plan de Trabajo, Propósito, Funcionalidades y Todo lo Relacionado**  
+4. **[DogHealthAvance](/Primera%20Entrega/PlanProyecto_DogHealth.pdf) - Plan de Trabajo, Propósito, Funcionalidades y Todo lo Relacionado**  
    Este documento ofrece una descripción detallada del estado actual del proyecto, incluyendo el propósito, las funcionalidades clave que se están desarrollando, y los objetivos a corto y largo plazo. Además, proporciona una visión general de la metodología de trabajo, los avances hasta la fecha, y los próximos pasos en el desarrollo del producto.
+
+5. **[Plan de Actividades](/Primera%20Entrega/ActividadesDogHealth.pdf) - Plan de Actividades y Responsables**
+   Este documento se centra en la organización y estructura de las actividades, contemplando duraciones y entregables.
