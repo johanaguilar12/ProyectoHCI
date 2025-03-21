@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo el desarrollo de una solución tecnológica qu
 
 Para más detalles sobre el proyecto, por favor consulta los siguientes archivos en la misma carpeta **Primera Entrega**:
 
-1. **[DogHealth ERS.docx](./Primera%20Entrega/DogHealth%20ERS.docx) - Documento de Requisitos**  
+1. **[DogHealth ERS.docx](/DogHealth%20ERS.docx) - Documento de Requisitos**  
    Este documento describe los requisitos funcionales y no funcionales del sistema de monitoreo de salud canina. Define las funcionalidades que debe ofrecer el producto, así como los criterios de desempeño, seguridad y usabilidad necesarios para garantizar la eficacia del monitoreo y la intervención temprana en casos de enfermedades o anomalías en los perros.
 
 2. **[DogHealth.xlsx](./Primera%20Entrega/DogHealth.xlsx) - Hoja de Cálculo de Duración y Costos**  
